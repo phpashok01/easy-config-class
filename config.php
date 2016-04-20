@@ -5,8 +5,9 @@
 * you also create the date wise log file with custom name .
 *
 * @author		Ashok kashyap 
-* @authoremail  ajayashok.01@gmail.com,ashok@easyexpertsolutions.com)
-* @facebook     https://www.facebook.com/er.ashokkashyap  
+* @authoremail     ajayashok.01@gmail.com,ashok@yesweexpert.com)
+* @facebook        https://www.facebook.com/er.ashokkashyap  
+* @authorwebsite   http://yesweexpert.com
 * @version      0.1
 */
 
