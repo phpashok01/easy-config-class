@@ -2,9 +2,10 @@
 
 /*
 * @author		Ashok kashyap 
-* @authoremail  ajayashok.01@gmail.com,ashok@easyexpertsolutions.com)
-* @facebook     https://www.facebook.com/er.ashokkashyap  
-* @version      0.1
+* @authoremail  ajayashok.01@gmail.com,ashok@yesweexpert.com
+* @authorwebsite   http://yesweexpert.com
+* @facebook     https://www.facebook.com/er.ashokkashyap, https://www.facebook.com/yesweexpert 
+* @version      1.0
 */
 
 include "config.php";
